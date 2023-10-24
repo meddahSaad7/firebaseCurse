@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 /* eslint-disable no-console */
 // Questionnaire.js
 import React, { useEffect, useState } from 'react'
